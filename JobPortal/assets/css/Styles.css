@@ -1,0 +1,98 @@
+﻿/* Reset default browser styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Set your desired background color */
+    margin: 0; /* Reset margin */
+}
+
+.wrapper {
+    display: flex;
+}
+
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: #343a40; /* Set your desired sidebar background color */
+    color: #fff;
+    position: fixed; /* Fixed position */
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.main_container {
+    flex: 1;
+    padding: 20px;
+    margin-left: 200px; /* Adjust to accommodate sidebar width */
+}
+
+/* Sidebar styles */
+.sidebar .inner {
+    padding: 20px;
+}
+
+.profile_info {
+    margin-bottom: 20px;
+}
+
+.profile_data {
+    text-align: center;
+}
+
+.profile_data .name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sidebar .siderbar_menu li {
+    list-style: none;
+}
+
+.sidebar .siderbar_menu li a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    transition: background-color 0.3s ease;
+}
+
+.sidebar .siderbar_menu li a:hover {
+    background-color: #495057; /* Set your desired hover background color */
+}
+
+.sidebar .icon {
+    margin-right: 10px;
+}
+
+/* Main container styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #343a40; /* Set your desired navbar background color */
+    color: #fff;
+    padding: 10px 0px;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 200px; /* Adjust as needed */
+    }
+    .main_container {
+        margin-left: 0; /* Reset margin for smaller screens */
+    }
+}

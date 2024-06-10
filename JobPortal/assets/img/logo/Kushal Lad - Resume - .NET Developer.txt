@@ -1,0 +1,49 @@
+kushal lad
+.NET Developer
+
+9512331966
+
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * Linkedin: www.linkedin.com/in/kushal-lad
+
+LANGUAGES
+
+SKILLS
+  HTML
+  CSS
+  C#
+  ASP.NET
+  ASP.NET MVC
+  Sql Server
+  Entity Framwork
+  Asp.net Core
+
+EDUCATION
+  * June 2021 – May 2025
+    A. D. Patel Institute of Technology, Anand B.E
+
+INTERNSHIPS
+  * August 2023 – September 2024
+    Bharat Intern at Web Devlopment, 
+
+COURSES
+  * October 2023
+    Developing Responsive Web Pages Using HTML5 and CSS3, Coursera
+  * March 2024
+    Introduction to .NET Core, Coursera
+  * November 2022
+    Introduction To Structured Query Language, Coursera
+
+
+  * Projects, , August 2023
+
+    Online Job Portal(Working)
+Temprature Converter
+Netflix Clone
